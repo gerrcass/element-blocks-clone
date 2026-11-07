@@ -1,0 +1,8 @@
+{
+  "name": "element-blocks-clone",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
